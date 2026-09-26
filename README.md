@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm DevAutomates
 
-<!--
-**devautomates/devautomates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevAutomates** is a technology platform covering AI tools, automation guides, and honest software reviews.
 
-Here are some ideas to get you started:
+We help developers, startups, and businesses discover practical tools and strategies to work smarter and scale faster.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What We Cover
+
+* 🤖 AI tools and workflows
+* ⚙️ Automation with n8n, Zapier, and Make
+* 🐍 Python tutorials and projects
+* 🧰 Software reviews and productivity tools
+* 📚 Practical guides for developers and businesses
+
+## 🌐 Visit DevAutomates
+
+👉 [Visit our website](https://devautomates.com/)
+
+Explore practical tutorials, automation ideas, AI tools, and software insights.
+
+---
+
+**Topics:** AI · Automation · Python · n8n · Zapier · Make · Software Tools
